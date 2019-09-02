@@ -13,5 +13,5 @@ Dies ist das Repository zum Workshop "Upgrade Your Room", der vom OFFIS e.V. in 
 | [Material 06](/Material_06_NutzungskontextSchablone_Zimmer.pdf) |Nutzungskontext-Schablone. Diese Schablone wird benutzt, um die Ideen der Schülerinnen zu sammeln. Jede Schülerin/Gruppe bekommt eine Vorlage und sollen diese benutzen um die Ideen zu strukturieren |
 | [Material 07](/Material_07_Matrix_Vorlage.pdf) | Matrix-Vorlage. Wird benutzt um auf der externen RGB LED Matrix Symbole zu zeichnen. Dies gilt als Vorlage und wird in der Ideenphase benutzt und kann im Nachgang umgesetzt werden|
 | [Material 08](/Material_08_Matrix_Vorlage2.pdf) |Matrix-Vorlage mit integrierten Pixelzahlen|
-| [Material 09](/Material_09_Calliope_Datei.hex) | Calliope-Datei. Diese Datei sollte stehts als Vorlage in die IDE geladen werden. Sie enthälte die wichtigen Pakete |
+| [Material 09](/Material_09_Calliope_Datei.hex) | Calliope-Datei. Diese Datei sollte stets als Vorlage in die IDE geladen werden. Sie enthälte die wichtigen Pakete |
 
