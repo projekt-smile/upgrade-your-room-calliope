@@ -13,3 +13,5 @@ Dies ist das Repository zum Workshop "Upgrade Your Room", der vom OFFIS e.V. in 
 | [Material 07](/Material_07_Matrix_Vorlage.pdf) | Matrix-Vorlage. Wird benutzt um auf der externen RGB LED Matrix Symbole zu zeichnen. Dies gilt als Vorlage und wird in der Ideenphase benutzt und kann im Nachgang umgesetzt werden|
 | [Material 08](/Material_08_Matrix_Vorlage2.pdf) |Matrix-Vorlage mit integrierten Pixelzahlen|
 | [Material 09](/Material_09_Calliope_Datei.hex) | Calliope-Datei. Diese Datei sollte stets als Vorlage in die IDE geladen werden. Sie enthälte die wichtigen Pakete |
+| [Material 10](Material_10_Hilfekarten_ALL_v1.pdf) | Hilfekarten für den Calliope (Version 01)|
+| [Material 11](Material_11_Hilfekarten_ALL_v2.pdf) | Hilfekarten für den Calliope. Überarbeitete Version nach Beobachtungen mit dem Umgang der Karten |
