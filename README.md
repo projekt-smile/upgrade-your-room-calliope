@@ -2,8 +2,8 @@
 Dies ist das Repository zum Workshop "Upgrade Your Room", der vom OFFIS e.V. in Oldenburg entwickelt wurde.
 
 | Datei | Inhaltsbeschreibung |
-| <img width=250/> | <img width=500/> |
 | ------------: | :-------------- |
+| <img width=250/> | <img width=500/> |
 | [Material 01](/Material_01_Workshopbeschreibung_v2.0.pdf) | Hier befindet sich ein Überblick des vorgestellten Workshops, mögliche Verlaufspläne und weitere Hintergrundinformationen. |
 | [Material 02](/Material_02_Vorlage_Präsentation.pptx) | Hier befindet sich eine Vorlage für eine Präsentation. |
 | [Material 03](/Material_03_HCD-Prozess.pdf) | Hier ist der Human-Centered-Design Prozess als Grafik beschrieben. |
